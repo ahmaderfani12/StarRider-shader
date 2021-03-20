@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_StarsDot
+  m_Shader: {fileID: -6465566751694194690, guid: 43054c1123ac5ca41acaba66c9f9eed7,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Boolean_C5A013A6: 0
+    - Vector1_4001346F: 31.1
+    - Vector1_7D546B7: 10
+    - Vector1_90064783: 0.583
+    - Vector1_924E4AC2: 0.126
+    - _random: 0.61
+    - _shadow: 0.444
+    - _size: 4
+    - _speed: 39.1
+    m_Colors:
+    - Color_6DA5CF2B: {r: 25.992073, g: 1.4270158, b: 0, a: 0}
+    - Color_FD6D7F65: {r: 0, g: 0.93669206, b: 5.5908804, a: 0}
+    - Vector3_4CE6BE28: {r: 0, g: 0, b: 0, a: 0}
