@@ -13,6 +13,7 @@ Most of the shader is by the random method with fraction of sin wave, and the ro
 ## Unity
 <br>
 <br>
+
 ![alt text](https://github.com/ahmaderfani12/StarRider-shader/blob/main/unity_preview.jpg)
 <br>
 Project is on URP and i project the shader on model using world space position, and also add some bloom with HDR color.
