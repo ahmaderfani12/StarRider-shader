@@ -1,6 +1,6 @@
 ## Star rider shader
 
-I tried to use my GLSL fragment shader into unity and apply it to a model.
+I tried to use my GLSL fragment shader in unity and apply it to a model.
 <br>
 GLSL code:
 <br>
@@ -8,7 +8,7 @@ https://www.shadertoy.com/view/fsfGWM
 <br>
 ![alt text](https://github.com/ahmaderfani12/StarRider-shader/blob/main/GLSL_preview.gif?raw=true)
 <br>
-Most of the shader is by the random method with fraction of sin wave, and the rows move base on random(floor(UV.y)) to just move on the x-axis.
+Most of the shader is by the random method with a fraction of sin wave, and the rows move based on a random(floor(UV.y)) to move on the x-axis.
 <br>
 ## Unity
 <br>
@@ -18,7 +18,7 @@ Most of the shader is by the random method with fraction of sin wave, and the ro
 <br>
 ## [Preview on youtube](https://www.youtube.com/watch?v=dvlMRb8_ugw "link title")
 <br>
-Project is on URP and i project the shader on model using world space position, and also add some bloom with HDR color.
+The project is on URP, and I project the shader on the model using world space position and add some bloom with HDR color.
 
 ### licences
 3d model:
